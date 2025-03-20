@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: comt-1
-          image: shaikmustafa/paytm:bank
+          image: arundaky/mytetrisgame
           ports:
-          - containerPort: 80
+          - containerPort: 3000
