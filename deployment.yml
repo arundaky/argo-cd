@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: cont-1
-          image: arundaky/mytetrisgame:v1
+          image: arundaky/paymentservice:latest
           ports:
           - containerPort: 3000
